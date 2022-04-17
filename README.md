@@ -1,12 +1,12 @@
 <h1>Interested Areas</h1>
 <ol>
-  <il>
+  <li>
     Frontend: HTML/CSS, JavaScript
     </li>
-    <il>
+    <li>
     Backend: PHP, C#, ASP.NET
     </li>
-    <il>
+    <li>
     Network
       </li>
   </ol>
